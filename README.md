@@ -1,4 +1,4 @@
-# 📚 **Nome do Projeto**  
+# 📚 **Projeto DIO github Markdown**  
 > Este é um projeto que aborda o uso do Markdown e suas funcionalidades, utilizando como exemplo um projeto fictício de gerenciamento de tarefas.
 
 ![Badge](https://img.shields.io/badge/STATUS-Em_Desenvolvimento-yellow?style=flat-square)  
